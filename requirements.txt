@@ -22,7 +22,6 @@ idna==2.6
 jmespath==0.9.4
 keyring==17.1.1
 keyrings.alt==3.1.1
-language-selector==0.1
 launchpadlib==1.10.6
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
